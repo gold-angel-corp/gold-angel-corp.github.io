@@ -1,0 +1,32 @@
+/* --Website-- */
+
+footer {
+    max-width: 711px;
+    width: 100%;
+    margin-top: 275px;
+}
+
+/* --Classes-- */
+
+.screenshots {
+    max-width: 110px;
+    width: 100%;
+}
+
+.table_goddess {
+    max-width: 591px;
+    width: 100%;
+    background-image: url(../images/Goddess\ Hase\ -\ Gold\ Angel\ Corp\ -\ Itch.io.png);
+    background-repeat: no-repeat;
+    background-position:right;
+    background-size: 213px 110%;
+}
+
+/* --MENU-- */
+nav {
+    max-width: 120px;
+    width: 17%;
+    background-color: #2B2A2E;
+    font-family: sans-serif;
+    font-size: 0.6em;
+}

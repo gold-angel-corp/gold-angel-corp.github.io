@@ -1,0 +1,137 @@
+/* Reset paddings & Margins */
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+/* --Website-- */
+
+a {
+    color: yellowgreen;
+}
+
+article {
+    float: right;
+    max-width: 591px;
+    width: 82%;
+    background-color: #3D474F;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, serif;
+    font-size: 15px;
+    position: relative;
+}
+
+body {
+    background-color: #202020;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    clear: both;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, serif;
+    font-size: 15px;
+    text-align: center;
+}
+
+header {
+    max-width: 711px;
+    width: 100%;
+    display: block;
+}
+
+iframe {
+    width: 100%;
+}
+
+
+/* Classes */
+
+.gold_angel_yellow {
+    color: yellow;
+}
+
+.gondlin {
+    background-color: black;
+    height: 15px;
+}
+
+.noads {
+    display: none;
+}
+
+.novisibleclicky {
+    display: block;
+}
+
+.screenshots {
+    max-width: 190px;
+}
+
+.table_gac {
+    max-width: 591px;
+    width: 100%;
+    margin: 0 auto 0 auto;
+    display: block;
+}
+
+.table_goddess {
+    max-width: 591px;
+    width: 100%;
+    background-image: url(../images/Goddess\ Hase\ -\ Gold\ Angel\ Corp\ -\ Itch.io.png);
+    background-repeat: no-repeat;
+    background-position:right;
+    background-size: 213px 110%;
+}
+
+.table_header {
+    background-color: #2B2A2E;
+    text-align: center;
+    max-width: 591px;
+    width: 100%;
+    font-weight: bolder;
+}
+
+/* ID`s */
+
+#banner {
+    height: 85px;
+    max-width: 711px;
+    width: 100%;
+    display: block;
+}
+
+#container {
+    max-width: 711px;
+    width: 100%;
+    margin: 0 auto 0 auto;
+    background-color:#2B2A2E
+}
+
+/* --MENU-- */
+nav {
+    max-width: 120px;
+    width: 100%;
+    background-color: #2B2A2E;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, serif;
+    font-size: 15px;
+    float: left;
+    position: absolute;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li a {
+    color: white;
+    border: 2px solid #7d9bb4;
+    display: block;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    background-color: #3D474F;
+    transition: all 400ms ease-in-out;
+}
