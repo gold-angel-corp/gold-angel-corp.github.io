@@ -3,3 +3,4 @@ Website about Gold Angel Corporation. In this website you will find games to buy
 Store Gold Angel Corp. Golden Ages! Gold Games!
 
 Games & Assets!
+*  Please see copyright!
