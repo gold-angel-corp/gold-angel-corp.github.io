@@ -48,6 +48,11 @@ iframe {
 
 /* Classes */
 
+.font-body {
+    color: black;
+    font-family:'Courier New', Courier, monospace
+}
+
 .gold_angel_yellow {
     color: yellow;
 }
