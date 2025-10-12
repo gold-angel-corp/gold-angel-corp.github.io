@@ -48,10 +48,7 @@ header {
     font-family:'Courier New', Courier, monospace
 }
 
-.frame{
-    display: flex; 
-    width: 100vw;
-    height: 100vh;
+.frame {
     justify-content: center;
     align-items: center;
 }
