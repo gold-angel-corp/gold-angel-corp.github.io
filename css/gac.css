@@ -52,6 +52,13 @@ header {
     padding-right: 79px;
 }
 
+.frame_itch {
+    max-width: 250px;
+    width: 100%;
+    margin: 0 auto 0 auto;
+    display: block;
+}
+
 .gold_angel_yellow {
     color: yellow;
 }
