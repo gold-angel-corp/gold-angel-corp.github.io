@@ -48,9 +48,12 @@ header {
     font-family:'Courier New', Courier, monospace
 }
 
-.frame {
-    display: flex;
+.frame{
+    display: flex; 
+    width: 100vw;
+    height: 100vh;
     justify-content: center;
+    align-items: center;
 }
 
 .gold_angel_yellow {
