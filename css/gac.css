@@ -42,7 +42,7 @@ header {
 }
 
 iframe {
-    width: 300px;
+    width: 350px;
 }
 
 
@@ -51,6 +51,11 @@ iframe {
 .font-body {
     color: black;
     font-family:'Courier New', Courier, monospace
+}
+
+.frame_itch {
+    margin: 0 auto 0 auto;
+    display: block;
 }
 
 .gold_angel_yellow {
