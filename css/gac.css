@@ -51,7 +51,7 @@ header {
 .frame {
     justify-content: center;
     align-items: center;
-    margin-left: 25px;
+    padding-right: 65px;
 }
 
 .gold_angel_yellow {
