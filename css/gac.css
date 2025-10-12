@@ -41,17 +41,16 @@ header {
     display: block;
 }
 
-iframe {
-    display: flex;
-    justify-content: center;
-}
-
-
 /* Classes */
 
 .font-body {
     color: black;
     font-family:'Courier New', Courier, monospace
+}
+
+.frame {
+    display: flex;
+    justify-content: center;
 }
 
 .gold_angel_yellow {
