@@ -42,8 +42,8 @@ header {
 }
 
 iframe {
-    width: 500px;
-    margin: 0 25% 0 25%;
+    width: 400px;
+    margin: 0 auto 0 auto;
     display: block;
 }
 
