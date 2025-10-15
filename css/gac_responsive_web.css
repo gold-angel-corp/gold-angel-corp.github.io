@@ -8,6 +8,12 @@ footer {
 
 /* --Classes-- */
 
+.picture_responsive {
+    padding-bottom: 55px; 
+    max-width: 150px; 
+    width: 50%;
+}
+
 .screenshots {
     max-width: 110px;
     width: 100%;
