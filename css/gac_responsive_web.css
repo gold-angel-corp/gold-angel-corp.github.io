@@ -19,6 +19,12 @@ footer {
 
 /* --Classes-- */
 
+.frame {
+    padding-right: 79px;
+    max-width: 400px;
+    width: 70%;
+}
+
 .picture_responsive {
     padding-bottom: 55px; 
     max-width: 150px; 
