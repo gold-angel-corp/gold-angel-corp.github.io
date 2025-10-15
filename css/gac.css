@@ -41,6 +41,12 @@ header {
     display: block;
 }
 
+iframe {
+    max-width: 400px;
+    width: 100%;
+    height: 315px;
+}
+
 /* Classes */
 
 .font-body {
