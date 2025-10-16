@@ -37,6 +37,14 @@ iframe {
     width: 100%;
 }
 
+.iframe_icon_0 {
+    max-width: 300px;
+    width: 70%;
+    padding-right: -180px;
+    height: 135px;
+    background-color: transparent;
+}
+
 .picture_responsive {
     padding-bottom: 55px; 
     max-width: 150px; 
