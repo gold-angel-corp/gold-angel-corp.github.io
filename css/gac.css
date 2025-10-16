@@ -112,6 +112,7 @@ iframe {
     max-width: 591px;
     width: 100%;
     font-weight: bolder;
+    float: right;
 }
 
 /* ID`s */
