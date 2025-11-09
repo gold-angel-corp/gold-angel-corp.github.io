@@ -65,6 +65,21 @@ iframe {
     background-size: 213px 110%;
 }
 
+/* ID's */
+#banner {
+    height: 85px;
+    max-width: 750px;
+    width: 100%;
+    display: none;
+}
+
+#banner_mobile {
+    height: 85px;
+    max-width: 750px;
+    width: 100%;
+    display: block;
+}
+
 /* --MENU-- */
 nav {
     max-width: 120px;

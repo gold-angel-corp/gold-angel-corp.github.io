@@ -132,6 +132,20 @@ iframe {
     display: block;
 }
 
+#banner {
+    height: 85px;
+    max-width: 750px;
+    width: 100%;
+    display: block;
+}
+
+#banner_mobile {
+    height: 85px;
+    max-width: 450px;
+    width: 100%;
+    display: none;
+}
+
 #container {
     max-width: 711px;
     width: 100%;
