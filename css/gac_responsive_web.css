@@ -61,9 +61,15 @@ iframe {
     width: 100%;
     background-image: url(../images/Goddess\ Hase\ -\ Gold\ Angel\ Corp\ -\ Itch.io.png);
     background-repeat: no-repeat;
-    background-position: 70%;
-    background-size: 213px 110%;
+    background-position: 100%;
+    background-size: 164px 125%;
 }
+
+.text_article {
+    max-width: 220px;
+    width: 100%;
+}
+
 
 /* ID's */
 #banner {
