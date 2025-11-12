@@ -73,9 +73,6 @@ iframe {
 
 /* ID's */
 #banner {
-    height: 85px;
-    max-width: 750px;
-    width: 100%;
     display: none;
 }
 
