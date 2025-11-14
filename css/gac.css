@@ -41,13 +41,6 @@ header {
     display: block;
 }
 
-iframe {
-    max-width: 400px;
-    width: 190%;
-    height: 315px;
-    padding-left: 85px;
-}
-
 /* Classes */
 
 .font-body {
@@ -75,7 +68,11 @@ iframe {
 
 .gondlin {
     background-color: black;
-    height: 15px;
+    height: 19px;
+}
+
+.iframe_date_time {
+    float: right;
 }
 
 .iframe_icon_0 {
