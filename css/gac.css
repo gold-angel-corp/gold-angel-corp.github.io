@@ -27,6 +27,7 @@ body {
 }
 
 footer {
+    width: 99.6%;
     background-color: black;
     color: white;
     clear: both;
