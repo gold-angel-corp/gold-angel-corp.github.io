@@ -45,6 +45,18 @@ header {
 
 /* Classes */
 
+.article_satori {
+    max-width: 711px;
+    width: 100%;
+    margin: 0 auto 0 auto;
+    display: block;
+}
+
+.bodhisattva {
+    background-color:#7d9bb4;
+    height: 19px;
+}
+
 .font-body {
     color: black;
     font-family:'Courier New', Courier, monospace
@@ -62,6 +74,18 @@ header {
     margin: 0 auto 0 auto;
     display: block;
     height: 155px;
+}
+
+.footer_satori {
+    width: 99.714285714%;
+    background-color:#7d9bb4;
+    color: black;
+    clear: both;
+    font-family: Arial, Tahoma, Helvetica, Verdana, sans-serif;
+    font-size: 14px;
+    text-align: center;
+    border: 1px solid grey;
+    font-weight: bolder;
 }
 
 .gold_angel_yellow {
@@ -85,6 +109,10 @@ header {
     background-color: transparent;
 }
 
+.iframe_date_time_satori {
+    float: right;
+}
+
 .noads {
     display: none;
 }
@@ -93,8 +121,19 @@ header {
     display: block;
 }
 
+.satori_a {
+    color:brown;
+} 
+
 .screenshots {
     max-width: 190px;
+}
+
+.subtitle_satori {
+    background-image:linear-gradient(red, orange);
+    color:darkblue;
+    font-weight: bolder;
+    text-align: center;
 }
 
 .table_gac {
@@ -121,6 +160,16 @@ header {
     width: 100%;
     font-weight: bolder;
     float: right;
+}
+
+.table_satori {
+    max-width: 711px;
+    width: 100%;
+    background-color: #2B2A2E;
+}
+
+.table_satori_text {
+    background-color: #3D474F;
 }
 
 .text_article {
