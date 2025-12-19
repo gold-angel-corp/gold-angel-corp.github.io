@@ -131,8 +131,8 @@ header {
 }
 
 .subtitle_satori {
-    background-image:linear-gradient(red, orange);
-    color:darkblue;
+    background-color:darkgoldenrod;
+    color: white;
     font-weight: bolder;
     text-align: center;
 }
