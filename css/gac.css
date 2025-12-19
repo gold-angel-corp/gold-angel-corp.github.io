@@ -173,6 +173,11 @@ header {
     background-color: #3D474F;
 }
 
+.text_body {
+    background-color: #3D474F;
+    border: 2px solid #7d9bb4;
+}
+
 .text_article {
     max-width: 440px;
     width: 100%;
