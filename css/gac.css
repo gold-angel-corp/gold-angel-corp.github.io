@@ -171,6 +171,7 @@ header {
 
 .table_satori_text {
     background-color: #3D474F;
+    border-left: 6px solid #E0CD2F;
 }
 
 .text_body {
