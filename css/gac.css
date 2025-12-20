@@ -37,6 +37,10 @@ footer {
     border: 1px solid grey;
 }
 
+h4 {
+    font-size: 17px;
+}
+
 header {
     max-width: 711px;
     width: 100%;
@@ -131,7 +135,7 @@ header {
 }
 
 .subtitle_satori {
-    background-color:darkgoldenrod;
+    background-color:#E0CD2F;
     color: white;
     font-weight: bolder;
     text-align: center;
