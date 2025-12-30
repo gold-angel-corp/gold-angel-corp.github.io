@@ -34,8 +34,9 @@ footer {
 }
 
 .frame {
-    max-width: 350px;
+    max-width: 300px;
     width: 100%;
+    float: left;
 }
 
 .frame_itch {
