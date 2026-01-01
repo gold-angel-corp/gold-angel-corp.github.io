@@ -1,7 +1,7 @@
 ########################################################################
 
 Developer: Starfish Designer                                    
-Date: Begin start at April 2024                                                                            
+Date: Start at April 2024                                                                            
                                                                                                                        
       License: You can not use this code from this website. You Can't Sell too and share this 
       code.The Copyright from artwork is made by Gold Angel Corporation and you can't use in 
