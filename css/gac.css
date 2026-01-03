@@ -132,6 +132,7 @@ header {
 
 .screenshots {
     max-width: 190px;
+    width: 100%;
 }
 
 .subtitle_satori {
